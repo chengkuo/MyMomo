@@ -14,6 +14,7 @@ public class RenBean {
 
     public String getUrl_touxiang() {
         Log.i("tmd", "getUrl_touxiang: 222222222222222");
+        Log.i("mdzz", "getUrl_touxiang: 4444444444444444");
         return url_touxiang;
     }
 
