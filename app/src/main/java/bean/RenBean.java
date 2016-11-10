@@ -1,5 +1,7 @@
 package bean;
 
+import android.util.Log;
+
 /**
  * Created by a452542253 on 2016/11/10.
  */
@@ -11,6 +13,7 @@ public class RenBean {
     private String shijian_didian;
 
     public String getUrl_touxiang() {
+        Log.i("tmd", "getUrl_touxiang: 222222222222222");
         return url_touxiang;
     }
 
